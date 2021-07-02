@@ -1,0 +1,14 @@
+.navbar img{
+  max-height: 50px;
+  max-width: 120px;
+}
+#myProgress {
+  width: 100%;
+  background-color: grey;
+}
+
+#myBar {
+  width: 60%;
+  height: 30px;
+  background-color: green;
+}
